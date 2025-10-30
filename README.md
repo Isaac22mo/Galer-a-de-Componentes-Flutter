@@ -44,6 +44,8 @@ Cada componente está construido con `StatelessWidget` y soporta diferentes vari
 
 ---
 
+### Capturas
+
 * ![Screenshot 1](screenshots/screen1.png)  
   CustomButton: Muestra las variantes primary, secondary y outlined.  
   CustomCard: Tarjetas con estilo elevated y filled.
