@@ -2,8 +2,8 @@
 
 ### Autor
 
-**Nombre:** [Isaac Moctezuma Montoya]  
-**Matrícula:** [I20223TN135]
+**Nombre:** Isaac Moctezuma Montoya  
+**Matrícula:** I20223TN135
 
 ---
 
