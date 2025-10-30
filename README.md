@@ -1,1 +1,86 @@
-# Galer-a-de-Componentes-Flutter
+# Proyecto Flutter - Componentes Personalizados
+
+### Autor
+
+**Nombre:** [Isaac Moctezuma Montoya]  
+**Matrícula:** [I20223TN135]
+
+---
+
+### Descripción del proyecto
+
+Este proyecto incluye una colección de componentes personalizados creados con Flutter.  
+El objetivo es tener widgets reutilizables con distintos estilos, como botones, alertas, tarjetas, chips, campos de texto y más.
+
+Cada componente está construido con `StatelessWidget` y soporta diferentes variantes visuales para adaptarse a múltiples usos dentro de una aplicación.
+
+---
+
+### Componentes implementados
+
+1. CustomButton  
+2. CustomBadge  
+3. CustomAlert  
+4. CustomAvatar  
+5. CustomCard  
+6. CustomChip  
+7. CustomInput  
+8. CustomProgress
+
+---
+
+### Variantes de cada componente
+
+| Componente     | Variantes                     |
+| -------------- | ----------------------------- |
+| CustomButton   | primary, secondary, outlined  |
+| CustomBadge    | info, success, warning, error |
+| CustomAlert    | info, success, warning, error |
+| CustomAvatar   | circular, rounded, square     |
+| CustomCard     | elevated, outlined, filled    |
+| CustomChip     | standard, outlined, colored   |
+| CustomInput    | standard, outlined, filled    |
+| CustomProgress | linear, circular, custom      |
+
+---
+
+### Capturas de pantalla
+
+Agrega aquí tus capturas de la app (puedes cambiar las rutas por las imágenes reales del proyecto):
+
+* ![Screenshot 1](screenshots/screen1.png)
+* ![Screenshot 2](screenshots/screen2.png)
+* ![Screenshot 3](screenshots/screen3.png)
+* ![Screenshot 4](screenshots/screen4.png)
+* ![Screenshot 5](screenshots/screen5.png)
+
+---
+
+### Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+
+   ```bash
+   git clone https://github.com/Isaac22mo/Galer-a-de-Componentes-Flutter.git
+
+2. Entrar al directorio del proyecto:
+
+    ```bash
+    cd repositorio
+
+3. Instalar dependencias:
+
+    ```bash
+    flutter pub get
+
+4. Ejecutar la aplicación
+
+     ```bash
+     flutter run
+
+### Versión de flutter 
+ 3.35.3
+
+### Notas finales
+Este proyecto demuestra cómo crear componentes reutilizables y personalizables en Flutter.
+Cada widget tiene variantes que permiten ajustar su apariencia y comportamiento de manera sencilla, facilitando la construcción de interfaces más consistentes y modulares.
