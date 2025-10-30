@@ -49,10 +49,22 @@ Cada componente está construido con `StatelessWidget` y soporta diferentes vari
 Agrega aquí tus capturas de la app (puedes cambiar las rutas por las imágenes reales del proyecto):
 
 * ![Screenshot 1](screenshots/screen1.png)
+CustomButton: Muestra las variantes primary, secondary y outlined.
+CustomCard: Tarjetas con estilo elevated y filled.
+
 * ![Screenshot 2](screenshots/screen2.png)
+CustomAvatar: Diferentes formas de avatar (circular, rounded, square).
+CustomBadge: Etiquetas de estado en distintos colores.
+
 * ![Screenshot 3](screenshots/screen3.png)
+CustomChip: Chips de categorías y filtros.
+CustomAlert: Mensajes de alerta tipo info, success y warning.
+
 * ![Screenshot 4](screenshots/screen4.png)
+CustomInput: Campos de texto con distintos estilos.
+
 * ![Screenshot 5](screenshots/screen5.png)
+CustomProgress: Barras de progreso lineal y circular mostrando avance de tareas.
 
 ---
 
